@@ -2,7 +2,7 @@
 ### Data Analyst | Power BI | SQL | Python | Excel
 
 🎓 MCA (AI & Data Science) — Graphic Era Hill University  
-📍 Dehradun, India | 📧 ashish9105335275@gmail.com  
+📍 Dehradun, India | 📧 ashishrawat.da@gmail.com 
 💼 Open to Data Analyst roles | Immediate Joiner
 
 ---
