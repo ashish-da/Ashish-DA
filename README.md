@@ -95,11 +95,11 @@ Goal        : Transform raw datasets into clear, actionable business insights
 
 <div align="center">
 
-<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="40" alt="Pair Extraordinaire"/>
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="55" alt="Pair Extraordinaire"/>
 &nbsp;&nbsp;
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="40" alt="YOLO"/>
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="55" alt="YOLO"/>
 &nbsp;&nbsp;
-<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="40" alt="Quickdraw"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="55" alt="Quickdraw"/>
 
 *Pair Extraordinaire &nbsp;|&nbsp; YOLO &nbsp;|&nbsp; Quickdraw*
 
