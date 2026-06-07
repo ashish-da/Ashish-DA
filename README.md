@@ -26,8 +26,18 @@
 ---
 
 ## 📈 GitHub Stats
-![Stars](https://img.shields.io/github/stars/Ashish910533?style=social)
-## streak
-![Followers](https://img.shields.io/github/followers/Ashish910533?style=social)
-![Stars](https://img.shields.io/github/stars/Ashish910533?style=social)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashish910533&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish910533&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Ashish910533?style=social" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Ashish910533?style=social" />
+</p>
 
