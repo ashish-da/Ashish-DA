@@ -26,10 +26,8 @@
 ---
 
 ## 📈 GitHub Stats
-
 ![Stars](https://img.shields.io/github/stars/Ashish910533?style=social)
-
-https://streak-stats.demolab.com?user=Ashish910533&theme=default
+## streak
 ![Followers](https://img.shields.io/github/followers/Ashish910533?style=social)
-
+![Stars](https://img.shields.io/github/stars/Ashish910533?style=social)
 
