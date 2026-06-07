@@ -26,4 +26,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish910533&show_icons=true&theme=default)
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish910533&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=Ashish910533&show_icons=true&theme=default)
+
+https://streak-stats.demolab.com?user=Ashish910533&theme=default
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish910533&layout=compact
