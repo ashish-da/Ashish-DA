@@ -27,17 +27,15 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashish910533&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashish-DA&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish910533&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Ashish910533?style=social" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Ashish910533?style=social" />
+  <img src="https://img.shields.io/github/followers/Ashish-DA?style=social" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Ashish-DA?style=social" />
 </p>
 
