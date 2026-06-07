@@ -95,11 +95,11 @@ Goal        : Transform raw datasets into clear, actionable business insights
 
 <div align="center">
 
-[![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)](https://github.com/ashish-da?achievement=pair-extraordinaire&tab=achievements)
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="40" alt="Pair Extraordinaire"/>
 &nbsp;&nbsp;
-[![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/ashish-da?achievement=yolo&tab=achievements)
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="40" alt="YOLO"/>
 &nbsp;&nbsp;
-[![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)](https://github.com/ashish-da?achievement=quickdraw&tab=achievements)
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="40" alt="Quickdraw"/>
 
 *Pair Extraordinaire &nbsp;|&nbsp; YOLO &nbsp;|&nbsp; Quickdraw*
 
