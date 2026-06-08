@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a5c,100:2196F3&height=200&section=header&text=Ashish%20Rawat&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Power%20BI%20%E2%80%A2%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Excel&descAlignY=58&descSize=16&descColor=90caf9&animation=fadeIn" width="100%"/>
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Business+Insights+📊;Dashboard+Developer+%26+Data+Storyteller;MCA+—+AI+%26+Data+Science+%40+GEHU+🎓;Immediate+Joiner+%7C+Open+to+Opportunities+✅)](https://git.io/typing-svg)
 
 <br/>
